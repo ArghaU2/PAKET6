@@ -1,0 +1,11 @@
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\bin\Release\Пакетик.exe.config
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\bin\Release\Пакетик.exe
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\bin\Release\Пакетик.pdb
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.csproj.AssemblyReference.cache
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.Form1.resources
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.Properties.Resources.resources
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.csproj.GenerateResource.cache
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.csproj.CoreCompileInputs.cache
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.exe
+C:\Users\Yand2\Downloads\PAKET-main\PAKET-main\Пакетик\Пакетик\obj\Release\Пакетик.pdb
